@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\bin\Debug\test.exe.config
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\bin\Debug\test.exe
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\bin\Debug\test.pdb
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.Form1.resources
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.exe
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.pdb
+C:\Users\LENOVO\Desktop\Lab2_IOT\Bai_4\test\obj\Debug\test.exe.config

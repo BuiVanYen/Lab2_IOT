@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "Bai_1",
+      "path": "Bai_1"
+    },
+    {
+      "name": "Bai_2",
+      "path": "Bai_2"
+    },
+    {
+      "name": "Bai_3",
+      "path": "Bai_3"
+    },
+    {
+      "name": "Bai_4_codeArduino",
+      "path": "Bai_4/Bai_4_codeArduino"
+    }
+  ],
+  "settings": {}
+}
